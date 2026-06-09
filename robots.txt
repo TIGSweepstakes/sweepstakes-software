@@ -1,14 +1,3 @@
-# ===========================================================
-# robots.txt — TIGSweepstakes
-# Website : https://www.tigsweepstakes.com/
-# Keyword : Sweepstakes Software
-# Target  : United States
-# Updated : 2026-06-09
-# ===========================================================
-
-
-# ── MAIN SEARCH ENGINES ────────────────────────────────────
-
 User-agent: Googlebot
 Allow: /
 Crawl-delay: 2
@@ -208,16 +197,12 @@ Allow: /*.svg$
 Crawl-delay: 5
 
 
-# ── SITEMAPS ───────────────────────────────────────────────
 
-Sitemap: https://www.tigsweepstakes.com/sitemap_index.xml
-Sitemap: https://www.tigsweepstakes.com/page-sitemap.xml
-Sitemap: https://www.tigsweepstakes.com/post-sitemap.xml
 
-# Guest Post / Backlink Page Sitemap
-Sitemap: https://www.tigsweepstakes.com/sweepstakes-software-guide/sitemap.xml
+Sitemap: https://tigsweepstakes.github.io/sweepstakes-software/sitemap_index.xml
+
 
 
 # ── HOST DIRECTIVE ─────────────────────────────────────────
 
-Host: https://www.tigsweepstakes.com
+Host: https://tigsweepstakes.github.io/sweepstakes-software/
