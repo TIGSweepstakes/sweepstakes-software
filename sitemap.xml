@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://www.tigsweepstakes.com/wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
+<urlset
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+  xsi:schemaLocation="
+    http://www.sitemaps.org/schemas/sitemap/0.9
+    http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd
+    http://www.google.com/schemas/sitemap-image/1.1
+    http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd">
+
+  <!-- ═══════════════════════════════════════════════════════
+       GUEST POST PAGE (This HTML file — highest priority)
+  ════════════════════════════════════════════════════════ -->
+  <url>
+    <loc>https://www.tigsweepstakes.com/sweepstakes-software-guide/</loc>
+    <lastmod>2026-06-09T08:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://www.tigsweepstakes.com/wp-content/uploads/2026/01/tigsweep-home-top-image.webp</image:loc>
+      <image:title>TIGSweepstakes — Best Sweepstakes Software for USA Operators</image:title>
+      <image:caption>Complete guide to sweepstakes software for US operators</image:caption>
+    </image:image>
+  </url>
+
+  <!-- ═══════════════════════════════════════════════════════
+       CORE PAGES
+  ════════════════════════════════════════════════════════ -->
+  <url>
+    <loc>https://www.tigsweepstakes.com/</loc>
+    <lastmod>2026-05-28T10:17:17+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://www.tigsweepstakes.com/wp-content/uploads/2026/01/tigsweep-home-top-image.webp</image:loc>
+      <image:title>TIGSweepstakes — Sweepstakes Casino Software Platform</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://www.tigsweepstakes.com/about-us/</loc>
+    <lastmod>2026-05-26T11:23:26+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.tigsweepstakes.com/wp-content/uploads/2026/01/tigsweep-about-us-top-image.webp</image:loc>
+      <image:title>About TIGSweepstakes</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://www.tigsweepstakes.com/contact-us/</loc>
+    <lastmod>2026-05-26T11:23:45+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.tigsweepstakes.com/wp-content/uploads/2026/01/contact-top-banner.webp</image:loc>
+      <image:title>Contact TIGSweepstakes</image:title>
+    </image:image>
+  </url>
+
+  <!-- ═══════════════════════════════════════════════════════
+       SERVICE PAGES
+  ════════════════════════════════════════════════════════ -->
+  <url>
+    <loc>https://www.tigsweepstakes.com/turnkey-sweepstakes-software/</loc>
+    <lastmod>2026-05-26T12:46:37+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.tigsweepstakes.com/wp-content/uploads/2026/01/Turnkey-Sweep-top.webp</image:loc>
+      <image:title>Turnkey Sweepstakes Software — Launch in 21 Days</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://www.tigsweepstakes.com/white-label-sweepstakes-software/</loc>
+    <lastmod>2026-05-26T09:00:27+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.tigsweepstakes.com/wp-content/uploads/2026/04/White-Label-Sweepstakes-Software.webp</image:loc>
+      <image:title>White Label Sweepstakes Software</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://www.tigsweepstakes.com/bespoke-sweepstakes-software/</loc>
+    <lastmod>2026-05-26T08:35:47+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.tigsweepstakes.com/wp-content/uploads/2026/01/Bespoke-Sweep-top-image.webp</image:loc>
+      <image:title>Bespoke Sweepstakes Software Development</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://www.tigsweepstakes.com/crypto-sweepstakes-software/</loc>
+    <lastmod>2026-05-26T08:39:38+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.tigsweepstakes.com/wp-content/uploads/2026/02/Crypto-Sweepstakes-Casino-Software.webp</image:loc>
+      <image:title>Crypto Sweepstakes Casino Software</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://www.tigsweepstakes.com/sweepstakes-casino-app/</loc>
+    <lastmod>2026-05-26T08:38:48+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.tigsweepstakes.com/wp-content/uploads/2026/01/Sweepstakes-Casino-App-Development-1.webp</image:loc>
+      <image:title>Sweepstakes Casino App Development</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://www.tigsweepstakes.com/social-casino-software/</loc>
+    <lastmod>2026-05-26T09:14:48+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.tigsweepstakes.com/wp-content/uploads/2026/01/Social-Casino-Software-2.webp</image:loc>
+      <image:title>Social Casino Software</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://www.tigsweepstakes.com/sweepstakes-pam-software/</loc>
+    <lastmod>2026-05-26T10:08:42+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.tigsweepstakes.com/wp-content/uploads/2026/04/Sweepstakes-PAM-Solution.webp</image:loc>
+      <image:title>Sweepstakes PAM Software</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://www.tigsweepstakes.com/sweepstakes-casino-games/</loc>
+    <lastmod>2026-06-03T11:44:50+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.tigsweepstakes.com/wp-content/uploads/2026/02/Sweepstakes-Casino-Games-2.webp</image:loc>
+      <image:title>Sweepstakes Casino Games — 20,000+ Titles</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://www.tigsweepstakes.com/internet-sweepstakes-software/</loc>
+    <lastmod>2026-05-26T11:03:43+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.tigsweepstakes.com/wp-content/uploads/2026/04/Internet-Sweepstakes-Software-top.webp</image:loc>
+      <image:title>Internet Sweepstakes Software</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://www.tigsweepstakes.com/sweepstakes-sportsbook-software/</loc>
+    <lastmod>2026-05-26T08:45:44+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.tigsweepstakes.com/wp-content/uploads/2026/04/Sweepstakes-Sportsbook-Casino.webp</image:loc>
+      <image:title>Sweepstakes Sportsbook Software</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://www.tigsweepstakes.com/hire-sweepstakes-developers/</loc>
+    <lastmod>2026-05-26T10:59:06+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.tigsweepstakes.com/wp-content/uploads/2026/02/Hire-a-Sweepstakes-Casino-Developer.png</image:loc>
+      <image:title>Hire Sweepstakes Casino Developers</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://www.tigsweepstakes.com/telegram-sweepstakes-casino/</loc>
+    <lastmod>2026-05-26T11:12:30+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.tigsweepstakes.com/wp-content/uploads/2026/04/Telegram-Sweepstakes-Casino.webp</image:loc>
+      <image:title>Telegram Sweepstakes Casino Software</image:title>
+    </image:image>
+  </url>
+
+  <!-- ═══════════════════════════════════════════════════════
+       BLOG / EDITORIAL PAGES
+  ════════════════════════════════════════════════════════ -->
+  <url>
+    <loc>https://www.tigsweepstakes.com/blog/</loc>
+    <lastmod>2026-06-08T10:53:08+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.tigsweepstakes.com/blog/sweepstakes-casino-software-usa/</loc>
+    <lastmod>2026-05-28T13:42:50+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.tigsweepstakes.com/wp-content/uploads/2026/05/Top-Sweepstakes-Platform-Providers-in-2026_-The-Complete-B2B-Buyers-Guide-1.webp</image:loc>
+      <image:title>Sweepstakes Casino Software USA</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://www.tigsweepstakes.com/blog/sweepstakes-casino-platform-evaluation-checklist/</loc>
+    <lastmod>2026-05-28T11:55:41+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.tigsweepstakes.com/wp-content/uploads/2026/03/Sweepstakes-Casino-Platform-Evaluation-Checklist_-How-to-Choose-the-Best-Online-Sweepstakes-Software-thumb.webp</image:loc>
+      <image:title>Sweepstakes Casino Platform Evaluation Checklist</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://www.tigsweepstakes.com/blog/white-label-vs-turnkey-sweepstakes-casino/</loc>
+    <lastmod>2026-05-26T11:45:23+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.tigsweepstakes.com/wp-content/uploads/2026/03/White-Label-vs.-Turnkey-Sweepstakes-Casino_-Which-Is-Right-for-You_-1.webp</image:loc>
+      <image:title>White Label vs Turnkey Sweepstakes Casino</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://www.tigsweepstakes.com/blog/white-label-sweepstakes-casino-software/</loc>
+    <lastmod>2026-05-26T11:49:54+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.tigsweepstakes.com/wp-content/uploads/2026/03/White-Label-Sweepstakes-Casino-Software_-A-Guide-for-Operators-1.webp</image:loc>
+      <image:title>White Label Sweepstakes Casino Software Guide</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://www.tigsweepstakes.com/blog/how-to-develop-sweepstakes-software/</loc>
+    <lastmod>2026-05-28T11:41:20+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.tigsweepstakes.com/wp-content/uploads/2026/04/How-to-Develop-Sweepstakes-Software-Development.webp</image:loc>
+      <image:title>How to Develop Sweepstakes Software</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://www.tigsweepstakes.com/blog/start-online-sweepstakes-casino-software/</loc>
+    <lastmod>2026-05-28T11:42:44+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.tigsweepstakes.com/wp-content/uploads/2026/04/thumbnail.webp</image:loc>
+      <image:title>How to Start Online Sweepstakes Casino Software</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://www.tigsweepstakes.com/blog/top-sweepstakes-platform-providers/</loc>
+    <lastmod>2026-05-26T08:30:21+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.tigsweepstakes.com/wp-content/uploads/2026/05/Top-Sweepstakes-Platform-Providers-in-2026_-The-Complete-B2B-Buyers-Guide-1.webp</image:loc>
+      <image:title>Top Sweepstakes Platform Providers</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://www.tigsweepstakes.com/blog/sweepstakes-casino-glossary/</loc>
+    <lastmod>2026-06-05T12:31:28+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>https://www.tigsweepstakes.com/wp-content/uploads/2026/04/How-to-Develop-Sweepstakes-Software-Development.webp</image:loc>
+      <image:title>Sweepstakes Casino Glossary</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://www.tigsweepstakes.com/blog/no-purchase-necessary-amoe-sweepstakes-casinos/</loc>
+    <lastmod>2026-06-08T10:04:41+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>https://www.tigsweepstakes.com/wp-content/uploads/2026/03/Sweepstakes-Casino-Platform-Evaluation-Checklist_-How-to-Choose-the-Best-Online-Sweepstakes-Software.webp</image:loc>
+      <image:title>No Purchase Necessary — AMOE in Sweepstakes Casinos</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://www.tigsweepstakes.com/blog/social-casino-vs-sweepstakes-casino/</loc>
+    <lastmod>2026-06-08T10:53:08+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>https://www.tigsweepstakes.com/wp-content/uploads/2026/03/White-Label-Sweepstakes-Casino-Software_-A-Guide-for-Operators-1.webp</image:loc>
+      <image:title>Social Casino vs Sweepstakes Casino</image:title>
+    </image:image>
+  </url>
+
+  <!-- ═══════════════════════════════════════════════════════
+       PRESS / NEWS
+  ════════════════════════════════════════════════════════ -->
+  <url>
+    <loc>https://www.tigsweepstakes.com/news/pr/globenewswire-sweepstakes/</loc>
+    <lastmod>2026-05-28T06:02:28+00:00</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>https://www.tigsweepstakes.com/wp-content/uploads/2026/04/Press-Media.webp</image:loc>
+      <image:title>TIGSweepstakes Press Release — GlobeNewswire</image:title>
+    </image:image>
+  </url>
+
+</urlset>
